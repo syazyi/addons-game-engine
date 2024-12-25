@@ -1,6 +1,5 @@
 using Godot;
 
-namespace Cosmos.Script.StateMachine;
 
 /// <summary>
 /// 状态机状态

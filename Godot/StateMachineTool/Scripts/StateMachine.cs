@@ -1,7 +1,6 @@
 using Godot;
 using Godot.Collections;
 
-namespace Cosmos.Script.StateMachine;
 
 /// <summary>
 /// 首先在需要状态机的对象下创建状态机实例
